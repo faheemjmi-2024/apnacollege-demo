@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Mohammad Faheem
+Author - Mohammad Faheem (Jamia Millia Islamia)
